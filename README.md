@@ -10,7 +10,7 @@
 🌱 Currently learning **Linux, DevOps, and Cloud Technologies**  
 
 ## 🔧 Tech Stack:
-- 🌐 **Web:** HTML | CSS | WordPress  
+- 🌐 **Web:** HTML | CSS | Javascript | Wordpress
 - 💻 **Tools & Platforms:** Linux CLI | Git & GitHub  
 - ☁️ **Cloud & DevOps:** Docker | CI/CD (Coming Soon!)   
 
