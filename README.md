@@ -13,7 +13,7 @@
 - ☁️ **Cloud & DevOps:** Docker | CI/CD (Coming Soon!)   
 
 ## 🌍 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeffery-aifuwa-18552215a/)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/thefuture_jeff)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jefferyaifuwa-cloud)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/thefuture_jeff)  
 
 ⚽ Football lover | Always exploring new technologies 🚀  
 
