@@ -8,9 +8,9 @@
 🌱 Currently learning **Linux, DevOps, and Cloud Technologies**  
 
 ## 🔧 Tech Stack:
-- 🌐 **Web:** HTML | CSS | Javascript | Wordpress
+- 🌐 **Web:** HTML | CSS | Javascript | Python | Wordpress
 - 💻 **Tools & Platforms:** Linux CLI | Git & GitHub  
-- ☁️ **Cloud & DevOps:** Docker | CI/CD (Coming Soon!)   
+- ☁️ **Cloud & DevOps:** AWS | Linux | Terraform | Docker | CI/CD | Kubernetes  
 
 ## 🌍 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jefferyaifuwa-cloud)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/thefuture_jeff)  
