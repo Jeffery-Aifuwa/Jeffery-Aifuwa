@@ -15,22 +15,22 @@ My background in Mechanical Engineering and experience in AI data annotation and
     Linux administration
     Networking & NGINX
 
-- DevOps & Automation
+2. DevOps & Automation
 
-Docker
-Kubernetes
-Git & GitHub
-GitHub Actions
-CI/CD pipelines
-Infrastructure as Code
+    Docker
+    Kubernetes
+    Git & GitHub
+    GitHub Actions
+    CI/CD pipelines
+    Infrastructure as Code
 
-- Programming & Web
+3. Programming & Web
 
-Python
-Bash/Shell
-JavaScript
-Node.js / Express
-HTML & CSS
+    Python
+    Bash/Shell
+    JavaScript
+    Node.js / Express
+    HTML & CSS
 
 I use this profile to document practical projects involving cloud infrastructure, containerization, Kubernetes, CI/CD, automation, and application deployment.
 
