@@ -8,7 +8,7 @@ My background in Mechanical Engineering and experience in AI data annotation and
 
 ### What I Work With
 
-#### Cloud & Infrastructure
+1. Cloud & Infrastructure
 
     AWS — EC2, S3, IAM, VPC, CloudFront, EKS
     Terraform
