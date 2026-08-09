@@ -8,12 +8,12 @@ My background in Mechanical Engineering and experience in AI data annotation and
 
 ### What I Work With
 
-- Cloud & Infrastructure
+#### Cloud & Infrastructure
 
-AWS — EC2, S3, IAM, VPC, CloudFront, EKS
-Terraform
-Linux administration
-Networking & NGINX
+    AWS — EC2, S3, IAM, VPC, CloudFront, EKS
+    Terraform
+    Linux administration
+    Networking & NGINX
 
 - DevOps & Automation
 
